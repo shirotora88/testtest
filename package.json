@@ -1,0 +1,17 @@
+{
+  "name": "testtest",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "isi description nya",
+  "keywords": [
+    "keyword",
+    "keyword 1",
+    "keyword 2",
+    "keyword 3"
+  ],
+  "repository": "https://github.com/shirotora88/testtest",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
